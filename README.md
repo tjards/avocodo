@@ -1,1 +1,1 @@
-# AVOCODO: the avocado simulator This program simulates the lifetime of an avacado. <img src="image.png"  width="20%" height="20%">You may run the AVOCODO simulator from the command line as follows:```python3 avocodo.py```
+# AVOCODO: the avocado simulator This program simulates the lifetime of an avacado. <img src="image.png"  width="20%" height="20%">You may run the AVOCODO simulator from the command line as follows:```python3 avocodo.py```
